@@ -13,4 +13,4 @@ process:
 ->pass the image to our model
 ![image](https://user-images.githubusercontent.com/104341344/191516851-2f2b38e9-4785-467c-81a0-6f05fcab6e0b.png)
 if thats the input if i send through directly to our model it predicts with the female
-
+ and finally we see the outcome
